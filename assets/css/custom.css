@@ -1,0 +1,9 @@
+body{background:#f8fbfd !important; overflow: hidden;}
+section{margin-top: 10%;}
+section#payButton{display: none;}
+fieldset{padding: 15px 50px; border:1px solid #e8e8fb;}
+footer{position: absolute; width: 100%; bottom: 20px; padding: 15px;}
+a:hover{text-decoration: none;}
+.button{display: block;background: #666ee8;color: #fff;box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);border-radius: 4px;	border: 0;	font-weight: 700;	width: 100%;	height: 40px;	outline: none;cursor: pointer;transition: all 0.15s ease;}
+.head-wrapper{width: 100%; background: #e8e8fb;}
+
